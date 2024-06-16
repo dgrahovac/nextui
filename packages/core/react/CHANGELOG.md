@@ -1,5 +1,24 @@
 # @nextui-org/react
 
+## 2.4.3
+
+### Patch Changes
+
+- Updated dependencies [[`6951b1fba`](https://github.com/nextui-org/nextui/commit/6951b1fba03652f95babe3a490caa2a061b8cb12)]:
+  - @nextui-org/avatar@2.0.31
+  - @nextui-org/accordion@2.0.35
+  - @nextui-org/autocomplete@2.1.2
+  - @nextui-org/badge@2.0.29
+  - @nextui-org/card@2.0.31
+  - @nextui-org/chip@2.0.30
+  - @nextui-org/dropdown@2.1.26
+  - @nextui-org/listbox@2.1.22
+  - @nextui-org/navbar@2.0.33
+  - @nextui-org/select@2.2.2
+  - @nextui-org/user@2.0.32
+  - @nextui-org/checkbox@2.1.2
+  - @nextui-org/table@2.0.36
+
 ## 2.4.2
 
 ### Patch Changes
